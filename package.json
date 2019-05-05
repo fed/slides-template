@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "rawr",
+  "version": "0.0.0",
+  "description": "Rawr",
+  "license": "MIT",
+  "author": "Federico Knüssel <fknussel@gmail.com>",
+  "repository": "https://github.com/fknussel/rawr.git",
+  "scripts": {
+    "start": "remarker",
+    "build": "remarker build"
+  },
+  "dependencies": {
+    "remarker": "^1.5.1",
+    "slides-base-css": "^1.0.0"
+  }
+}

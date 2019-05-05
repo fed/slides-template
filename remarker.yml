@@ -1,0 +1,10 @@
+port: 6789
+title: 'Rawr'
+css: '' # overrides default styles
+cssFiles: [
+  './node_modules/slides-base-css/style.css',
+  './style.css'
+]
+remarkConfig:
+  highlightStyle: github
+  highlightLines: true

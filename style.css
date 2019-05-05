@@ -1,0 +1,11 @@
+:root {
+  --color-inverse: #cf4647;
+}
+
+.hero {
+  background-color: #3caea3;
+}
+
+.full-width {
+  width: 100%;
+}
